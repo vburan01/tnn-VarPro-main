@@ -1,7 +1,5 @@
 # Variable Projection for Tensor Neural Network Autoencoders
 
-(c) Vutichart Buranasiri
-
 This repository extends the matrix-mimetic tensor neural network (`tNN`) codebase
 introduced by Newman, Horesh, Avron, and Kilmer in *Stable tensor neural networks
 for efficient deep learning*. The original tNN framework replaces dense matrix
@@ -113,7 +111,6 @@ python examples/mnist/plot_reconstructions.py
 These scripts generate the loss plots and reconstruction images used in the
 report.
 
-## Notes
+(c) Vutichart Buranasiri
 
-The older paper-style example files are kept under `examples/legacy_paper_examples/`
-for reference. The MNIST VarPro autoencoder workflow is in `examples/mnist/`.
+*This copyright notice applies only to original contributions and modifications by Vutichart Buranasiri. The original tNN code retains Elizabeth Newman’s copyright notice and MIT License, as provided in the LICENSE file*.
