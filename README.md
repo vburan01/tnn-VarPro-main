@@ -1,5 +1,7 @@
 # Variable Projection for Tensor Neural Network Autoencoders
 
+(c) Vutichart Buranasiri
+
 This repository extends the matrix-mimetic tensor neural network (`tNN`) codebase
 introduced by Newman, Horesh, Avron, and Kilmer in *Stable tensor neural networks
 for efficient deep learning*. The original tNN framework replaces dense matrix
