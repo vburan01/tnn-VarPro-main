@@ -12,16 +12,6 @@ Key MNIST files:
 - `mnist/ex_mnist_tensor_varpro_regression.py`: t-NN autoencoder trained with VarPro on the final decoder layer.
 - `mnist/plot_loss_curves.py`: loss figures used in the report.
 - `mnist/plot_reconstructions.py`: reconstruction figures used in the appendix.
-- `mnist/final_report.tex`: LaTeX report.
-
-Older paper/example scripts and CSV launch files have been moved to:
-
-```text
-legacy_paper_examples/
-```
-
-Those files are kept for reference, but they are not part of the MNIST VarPro
-autoencoder report workflow.
 
 ## Running MNIST Report Experiments
 
