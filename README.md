@@ -9,6 +9,8 @@ layers with transform-based tensor `\star_M` layers. This project builds on that
 framework by adding a variable projection (VarPro) training method for a tNN
 autoencoder on MNIST.
 
+The associated research report is available in the repository, under "Variable_Projection_for_TNNs.pdf". 
+
 The main experiment compares:
 
 - a baseline tNN autoencoder trained with Adam on all weights, and
